@@ -1,0 +1,7 @@
+case study
+
+An elevator machine distributes people to various floors in a tower . 
+The machine waits for users to press the floor they wish to go to. 
+Three doors A, B and C alight at different floors of the building.
+
+Implement this machine using a programming language of your choice
